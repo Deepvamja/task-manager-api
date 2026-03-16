@@ -30,6 +30,7 @@ This project was developed as part of the Backend Developer Intern screening tas
 
 ## Project Structure
 
+```
 task-manager-api
 │
 ├── config
@@ -53,9 +54,7 @@ task-manager-api
 ├── server.js
 ├── package.json
 └── README.md
-
----
-
+```
 ## Setup Instructions
 
 ### 1. Clone the repository
