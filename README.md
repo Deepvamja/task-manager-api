@@ -149,6 +149,3 @@ Delete a task.
 
 ---
 
-## Author
-
-Deep Vamja
