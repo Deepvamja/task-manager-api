@@ -1,4 +1,4 @@
-# Team Task Manager API
+# Task Manager API
 
 A simple REST API for managing team tasks built with **Node.js, Express, and MongoDB**.
 This project was developed as part of the Backend Developer Intern screening task.
